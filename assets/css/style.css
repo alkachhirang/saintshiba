@@ -169,11 +169,7 @@ label[for="menu_box"] {
 
 .paragraph-box {
     padding: 24px;
-    border: 2px solid #160e07;
-    border-image-source: linear-gradient(rgba(225, 225, 225, 1));
-    border-image-source: linear-gradient(95.21deg,
-            rgba(255, 255, 255, 0.2)-0.59%,
-            rgba(255, 255, 255, 0.092)106.99%);
+    border:1px solid #3b3531;
     border-radius: 10px;
     background: linear-gradient(136deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.00) 100%);
     backdrop-filter: blur(16px);
